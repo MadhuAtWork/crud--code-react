@@ -1,0 +1,667 @@
+
+/* ______________________________________________MY css___________________________________________ */
+/* increament */
+
+/* .container{
+  width:1000px;
+  height:800px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main{
+  width:200px;
+  height:200px;
+  background-color: aqua;
+}
+.main button{
+  width:100px;
+  height:100px;
+  background-color: lightcoral;
+}
+.holder{
+  width:200px;
+  height:100px;
+  background-color: blue;
+  color:white;
+  font-size: 28px;
+}    */
+/*____________________________________________________________________ */
+
+
+
+/* :form validation: */
+.container{
+  width:100%;
+  height: 100%;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main{
+  width:500px;
+  height:500px;
+  background-color: lightcyan;
+  padding:40px;
+
+  
+}
+.menu{
+  width: 400px;
+  height:60px;
+  background-color:lightgrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.menu input{
+  width:300px;
+  height:40px;
+} 
+
+/* _____________________________________________________________________________ */
+/* .container{
+  width:1500px;
+  height:800px;
+}
+.main{
+  width:1500px;
+  height:800px;
+  background-color:white;
+  display: flex;
+
+}
+.menu{
+  width:300px;
+  height:800px;
+  background-color:rgb(143, 236, 236);
+}
+.holder{
+  width:1200px;
+  height:800px;
+  background-color: rgb(235, 181, 181);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.menu1{
+  width:100px;
+  height:100px;
+  background-color: #1d735d;
+  margin:10px;
+}
+.menu2{
+  width:100px;
+  height:100px;
+  background-color:#1d735a;
+  margin:10px;
+
+}
+.menu3{
+  width:100px;
+  height:100px;
+  background-color:#1d735b;
+  margin:10px;
+
+}
+.menu4{
+  width:100px;
+  height:100px;
+  background-color:#1d735c;
+  margin:10px;
+
+}
+.menu5{
+  width:100px;
+  height:100px;
+  background-color:#1d735e;
+  margin:10px;
+
+}
+.menu6{
+  width:100px;
+  height:100px;
+  background-color:#561d73;
+  margin:10px;
+
+}
+.holder1{
+  width:800px;
+  height:600px;
+  background-color: white;
+
+}   replacelayout 
+
+
+/* ______________________________________________ */
+ /* .main{
+  width:1500px;
+  height:800px;
+  background-color: rgb(17, 0, 255);
+  display: flex;
+
+}
+.container{
+  width: 1500px;
+  height:800px;
+  background-color: aqua;
+  display: flex;
+}
+.menu1{
+  width:300px;
+  height:800px;
+  background-color: brown;
+}
+.menu{
+  width:100px;
+  height:100px;
+  background-color: rgb(132, 165, 42);
+  margin:10px;
+  cursor: pointer;
+}
+.holder{
+  width:1200px;
+  height:800px;
+  background-color: rgb(42, 126, 165);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.holder1{
+  width:400px;
+  height:400px;
+  background-color:lightsalmon;
+}  */
+/* Displaylayout */
+/* _____________________________________________ */
+
+
+/* colorbutton */
+ /* .main{
+  width:1550px;
+  height:700px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.menu{
+  width:300px;
+  height:500px;
+  background-color: aquamarine;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.holder1{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: brown;
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder2{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(165, 42, 144);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder3{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(56, 165, 42);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder4{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(54, 42, 165);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder5{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(165, 42, 118);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder6{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(128, 165, 42);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder7{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(42, 147, 165);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder8{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(252, 248, 35);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder9{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(165, 61, 42);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder10{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(165, 61, 42);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder11{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(23, 232, 240);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder12{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: brown;
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder13{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: brown;
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder14{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(157, 165, 42);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder15{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(99, 42, 165);
+  margin:10px;
+  cursor: pointer;
+
+}
+.holder16{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  background-color: rgb(165, 42, 165);
+  margin:10px;
+  cursor: pointer;
+
+}
+.color{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: white;
+}
+.holder17{
+  width:100px;
+  height:40px;
+  border-radius: 50px;
+  background-color:white;
+  margin:10px;
+  text-align: center; 
+  padding: 5px;
+   font-size: 28px; 
+   cursor: pointer;
+
+ }  */
+ /* _______________________ */
+ .main{
+   width:1550px;
+   height:700px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+ .holder{
+   width:1200px;
+   height:500px;
+   background-color:lightblue ;
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+ }
+ .menu{
+   width:1200px;
+   height:100px;
+   background-color: lightgray;
+   /* display: flex; */
+   /* align-items: center; */
+ }
+ .main1{
+  width:1200px;
+  height:600px;
+  background-color: lightgray;
+ }
+ .menu input{
+   width:700px;
+   height:30px;
+   margin: 10px;
+ }
+ .menu button{
+  width:100px;
+  height:30px;
+  margin: 10px;
+  background-color: brown;
+  color: white;
+  cursor: pointer;
+}
+.inputvalue{
+  width:80%;
+  height:auto;
+  text-align:center;
+  /* padding: 10px; */
+  border: 1px solid black;
+  border-radius: 8px;
+  background-color: lightgreen;
+  margin:10px;
+ cursor: pointer;
+ display: flex;
+ justify-content:space-between;
+ color: white;
+}
+.inputvalue:hover{
+  background-color: blue;
+}
+.inputvalue button{
+  border: none;
+  background-color: lightgreen;
+  font-size: 24px;
+  color:red;
+}
+.table{
+  width:90%;
+  height:40px;
+  border: 1px solid black;
+  /* display: flex; */
+  /* justify-content: left; */
+
+} 
+
+/* Layoutmain */
+
+
+/* _____________________ */
+
+
+/* .container{
+  width:1530px;
+  height:700px;
+  background-color: antiquewhite;
+  user-select: none;
+}
+.main{
+  width:100%;
+  height:100%;
+  background-color:lightblue;
+}
+.menu{
+  width:100%;
+  height: 20%;
+  background-color:lightblue ;
+  display: flex;
+  justify-content: space-between;
+}
+.holder{
+  width:100%;
+  height:80%;
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home{
+  width:200px;
+  height:auto;
+  background-color: lightgreen;
+  text-align: center;
+  padding: 20px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-size: 24px;
+  margin:20px;
+}
+.contact{
+  width:200px;
+  height:auto;
+  background-color: rgb(144, 208, 238);
+  text-align: center;
+  padding: 20px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-size: 24px;
+  margin:20px;
+
+}
+.about{
+  width:200px;
+  height:auto;
+  background-color: rgb(216, 144, 238);
+  text-align: center;
+  padding: 20px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-size: 24px;
+  margin:20px;
+
+}
+.help{
+  width:200px;
+  height:auto;
+  background-color: rgb(221, 238, 144);
+  text-align: center;
+  padding: 20px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-size: 24px;
+  margin:20px;
+
+}
+/* .holder1{
+  width:500px;
+  height:500px;
+  background-color:white;
+} */
+/* 
+.homeColor{
+  width: 600px;
+  height: 400px;
+  background: lightgreen;
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+}
+
+.contactColor{
+  width: 600px;
+  height: 400px;
+  background: rgb(144, 208, 238);
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+}
+
+.aboutColor{
+  width: 600px;
+  height: 400px;
+  background: rgb(216, 144, 238);
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+}
+
+.helpColor{
+  width: 600px;
+  height: 400px;
+  background: rgb(221, 238, 144);
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+} */ 
+
+/* displayheader */
+/* ____________________________ */
+/* .container{
+  width:100%;
+  height:700px;
+  background-color: antiquewhite;
+  user-select: none;
+}
+.main{
+  width:100%;
+  height:700px;
+  background-color: aquamarine;
+  padding: 20px;
+}
+.menu{
+  width:300px;
+  height:auto;
+  font-size: 24px;
+  text-align: center;
+  padding: 20px;
+  background-color: lightgreen;
+  margin:20px;
+  cursor: pointer;
+}
+.holder{
+  width:300px;
+  height:300px;
+  background-color: lightblue;
+ 
+}
+.ondiv{
+  width:100%;
+  height:100%;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 10px  10px 10px greenyellow;
+
+}
+.offdiv{
+  width:100%;
+  height:100%;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 10px  10px 10px lightcoral;
+
+} */
+/* buttoncolorchange */
+/* _______________________________________________________ */
+
+
+/* .container{
+  width: 100%;
+  height:700px;
+  background-color: antiquewhite;
+}
+.main{
+  width:100%;
+  height:100%;
+  border: 1px solid black;
+  background-color: rgb(252, 250, 247);
+  display: flex;
+}
+
+.sidenav{
+width:20%;
+height:100%;
+z-index: 1;
+overflow-x: hidden;
+transition: 0.5s;
+background-color: black;
+color: white;
+position: fixed;
+left: 0;
+right:0;
+}
+.unset_sidenav{
+  width:0%;
+  height:100%;
+  z-index: 1;
+  overflow-x: hidden;
+  transition: 0.5s;
+  background-color: black;
+  color: white;
+  position: fixed;
+  left: 0;
+  right:0;
+  }
+
+.menu{
+  width:15%;
+  height:100%;
+  background-color:lightgray;
+  font-size: 24px;
+  cursor: pointer;
+
+}
+.menu span{
+   margin:40px; 
+  padding: 20px;
+
+}
+.holder{
+  cursor: pointer;
+  font-size: 24px;
+  margin: 10px;
+}
+.holder:hover{
+  color: blue;
+}  */
